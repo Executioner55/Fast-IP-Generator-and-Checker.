@@ -9,4 +9,6 @@ How to use :
 
 PS : Hope you Enjoy the programm.
 
+Note : Added an Rechecker. need a Working.txt file in the src folder and the rechecker will recheck all the ips in the text file.
+
 ~ Made by Executioner
